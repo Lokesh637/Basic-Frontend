@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{ color: aqua;
+background-color: rgb(37, 3, 69);
+}
+h2{ color: bisque;
+background-color: chocolate;
+}
+a:visited{
+    color: yellow;
+}
+a:link{
+    color: chartreuse;
+}
+a:active{
+    color: aqua;
+    background-color: black;
+}
+a:hover{
+    color:aliceblue;
+    background-color: brown;
+}
